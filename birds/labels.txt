@@ -1,0 +1,16 @@
+0:American Crow
+1:American Goldfinch (Female)
+2:American Goldfinch (Male)
+3:American Robin (Adult)
+4:American Robin (Juvenile)
+5:Blue Jay
+6:Common Grackle
+7:House Sparrow (Female)
+8:House Sparrow (Male)
+9:House Wren
+10:Mourning Dove
+11:Northern Cardinal (Adult Male)
+12:Northern Cardinal (Female)
+13:Red-tailed Hawk (Dark morph)
+14:Red-tailed Hawk (Light morph immature)
+15:Tufted Titmouse
